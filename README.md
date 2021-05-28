@@ -10,6 +10,13 @@ This project is Spark Optimization Mini Project that will optimize existing Pysp
 ## Description
 Spark can give you a tremendous advantage when it comes quickly processing massive datasets. However, the tool is only as powerful as the one who wields it. Spark performance can become sluggish if poor decisions are made in the layout of the code and the functions
 that are chosen.
+performance of a Spark job can be impproved using following techniques:
+1. By picking the right operators
+2. Reduce the number of shuffles and the amount of data shuffled
+3. Tuning Resource Allocation
+4. Tuning the Number of Partitions
+5. Reducing the Size of Data Structures
+6. Choosing Data Formats
 
 
 ## Technologies
